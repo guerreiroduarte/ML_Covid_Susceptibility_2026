@@ -1,6 +1,9 @@
 # Data
 /data
 
+# References for the work
+/submission/references
+
 # History files
 .Rhistory
 .Rapp.history
