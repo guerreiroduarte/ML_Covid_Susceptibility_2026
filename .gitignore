@@ -4,6 +4,9 @@
 # References for the work
 /submission/references
 
+# R Project
+*.Rproj
+
 # History files
 .Rhistory
 .Rapp.history
